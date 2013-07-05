@@ -1,0 +1,1 @@
+/home/pacato/.vim/plugin/PhpGetterSetter.vim
